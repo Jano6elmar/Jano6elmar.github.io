@@ -555,7 +555,8 @@
 
 			.image.avatar img {
 				border-radius: 100%;
-				width: 100%;
+				width: 150px;
+				margin-right: 100px;
 			}
 
 /* List */
